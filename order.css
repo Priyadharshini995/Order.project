@@ -42,8 +42,7 @@ body {
   align-items: center;
   gap: 20px;
   padding: 25px 40px;
-  cursor: pointer;
-}
+  }
  
 .container .content h3 {
   text-align: center;
